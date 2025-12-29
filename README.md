@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e4e874b-f829-4276-8486-78118e4fa575" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73a698e4-1edf-4f59-9292-195f19a97943" />
+<img width="412" height="607" alt="image" src="https://github.com/user-attachments/assets/f6f7ce4e-ab0f-4d9d-a07b-3e180461fd95" />
+
 
 
 **A modern, feature-rich e-commerce platform built with Flask and Bootstrap 5**
@@ -167,22 +167,26 @@ The application comes with 6 sample products:
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](https://via.placeholder.com/800x400?text=Homepage+Screenshot)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a1718d1d-9680-4e0e-94b9-578deb8474ee" />
+
 
 *Browse all products with category filters and search*
 
 ### Product Detail
-![Product Detail](https://via.placeholder.com/800x400?text=Product+Detail+Screenshot)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7a92e97-3c23-49b1-a7a7-9842fa53935b" />
+
 
 *View detailed product information and add to cart*
 
 ### Shopping Cart
-![Shopping Cart](https://via.placeholder.com/800x400?text=Shopping+Cart+Screenshot)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2c97b01b-4b14-4374-b493-89c7e6194355" />
+
 
 *Manage cart items and proceed to checkout*
 
 ### Admin Dashboard
-![Admin Panel](https://via.placeholder.com/800x400?text=Admin+Panel+Screenshot)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/74fc9427-e02d-4dd4-b4df-1572fb56bf2b" />
+
 
 *Manage products and view orders*
 
