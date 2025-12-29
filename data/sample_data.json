@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Laptop Gaming",
+    "description": "High-performance gaming laptop with RTX 4070",
+    "price": 1299.99,
+    "stock": 10,
+    "category": "Electronics"
+  },
+  {
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with RGB lighting",
+    "price": 29.99,
+    "stock": 50,
+    "category": "Electronics"
+  },
+  {
+    "name": "Coffee Maker",
+    "description": "Automatic coffee machine with timer",
+    "price": 89.99,
+    "stock": 15,
+    "category": "Home"
+  },
+  {
+    "name": "T-shirt Casual",
+    "description": "100% cotton t-shirt, various colors available",
+    "price": 19.99,
+    "stock": 100,
+    "category": "Fashion"
+  },
+  {
+    "name": "Desk Lamp",
+    "description": "LED desk lamp with adjustable brightness",
+    "price": 34.99,
+    "stock": 25,
+    "category": "Home"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "description": "Portable waterproof speaker with 20h battery",
+    "price": 59.99,
+    "stock": 30,
+    "category": "Electronics"
+  },
+  {
+    "name": "Smart Watch",
+    "description": "Fitness tracker with heart rate monitor",
+    "price": 199.99,
+    "stock": 20,
+    "category": "Electronics"
+  },
+  {
+    "name": "Backpack",
+    "description": "Water-resistant backpack with laptop compartment",
+    "price": 49.99,
+    "stock": 40,
+    "category": "Fashion"
+  },
+  {
+    "name": "Water Bottle",
+    "description": "Insulated stainless steel water bottle",
+    "price": 24.99,
+    "stock": 60,
+    "category": "Sports"
+  },
+  {
+    "name": "Yoga Mat",
+    "description": "Non-slip yoga mat with carrying strap",
+    "price": 39.99,
+    "stock": 35,
+    "category": "Sports"
+  }
+]
