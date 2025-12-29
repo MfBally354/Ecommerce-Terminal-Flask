@@ -12,13 +12,13 @@ import uuid
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'ecommerce-secret-key-change-this'
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///products.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///data/products.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 db = SQLAlchemy(app)
 
 # Create data directory
-# os.makedirs('data', exist_ok=True)
+os.makedirs('data', exist_ok=True)
 
 # Models
 class Product(db.Model):
